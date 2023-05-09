@@ -15,8 +15,16 @@ So if you're a frequent pedestrian and want to stay safe while staying connected
 ## Images
 ### While browsing Reddit in hurry
 <img src="https://github.com/arya2004/smart-belt-notifications/blob/main/demonstration/Phone-screenshot.jpg" width=20% height=20%>
-### Hardware Impleentation
+
+
+
+### Hardware Implementation
+
+
 <img src="https://github.com/arya2004/smart-belt-notifications/blob/main/demonstration/20230510_003459.jpg" width=40% height=40%>
+
+
+
 ### Circuit Diagram
 
 
