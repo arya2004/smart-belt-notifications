@@ -11,3 +11,18 @@ How does it work? The smart belt uses advanced sensors and algorithms to detect 
 This simple yet effective solution could be a game-changer for anyone who struggles with phone addiction while walking in public. By using the smart belt, you can stay connected to your phone while also staying aware of your surroundings, reducing the risk of accidents and other safety issues.
 
 So if you're a frequent pedestrian and want to stay safe while staying connected, consider investing in a smart belt today. Your future self (and fellow pedestrians) will thank you!
+
+## Images
+### While browsing Reddit in hurry
+<img src="https://github.com/arya2004/smart-belt-notifications/blob/main/demonstration/Phone-screenshot.jpg" width=20% height=20%>
+### Hardware Impleentation
+<img src="https://github.com/arya2004/smart-belt-notifications/blob/main/demonstration/20230510_003459.jpg" width=40% height=40%>
+### Circuit Diagram
+
+
+![Screenshot (797)](https://github.com/arya2004/smart-belt-notifications/assets/72350136/f5c698f7-ed56-4e62-a0de-2a5582925586)
+
+## Small Clip
+
+https://github.com/arya2004/smart-belt-notifications/assets/72350136/65cc3943-67a5-463e-bbb0-7ef257eea595
+
