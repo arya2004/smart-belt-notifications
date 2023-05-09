@@ -31,6 +31,8 @@ So if you're a frequent pedestrian and want to stay safe while staying connected
 ![Screenshot (797)](https://github.com/arya2004/smart-belt-notifications/assets/72350136/f5c698f7-ed56-4e62-a0de-2a5582925586)
 
 ## Small Clip
+### The distance might look small because of camera. Though it can be changed in code to be diggerent than current value.
+
 
 https://github.com/arya2004/smart-belt-notifications/assets/72350136/65cc3943-67a5-463e-bbb0-7ef257eea595
 
